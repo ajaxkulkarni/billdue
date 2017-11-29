@@ -1,0 +1,11 @@
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+*.project
+.settings/org.eclipse.m2e.core.prefs
+*.jar
+target/billdue-service-0.0.1-SNAPSHOT.jar.original
+target/classes/application.properties
+*.class
+target/classes/META-INF/build-info.properties
+target/maven-archiver/pom.properties
+*.lst
